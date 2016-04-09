@@ -1,0 +1,9 @@
+Origin: Don's first IOS app
+Label: Upload The Pics
+Suite: stable
+Version: 1.0
+Codename: sartiop
+Architectures: iphoneos-arm
+Components: main
+Description: I want to upload my pics.
+Icon: https://github.com/corwin9/corwin9.github.com/blob/master/CydiaIcon.png
